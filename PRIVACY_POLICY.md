@@ -1,3 +1,9 @@
+---
+layout: default
+title: Terra Privacy Policy
+permalink: /privacy/
+---
+
 # Terra Privacy Policy
 
 **Last updated: 15 August 2026**

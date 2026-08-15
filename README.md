@@ -1,3 +1,9 @@
+---
+layout: default
+title: Farmer
+permalink: /
+---
+
 # Farmer
 
 Farmer is a private Discord application created exclusively for the official **Farming and Friends** community.
@@ -6,4 +12,4 @@ The application is publicly listed only to meet Discord's verification requireme
 
 If you reached this page while trying to install Farmer, you can safely close this page and return to Discord.
 
-[Privacy Policy](PRIVACY_POLICY.md) · [Terms of Use](TERMS_OF_USE.md)
+[Privacy Policy]({{ '/privacy/' | relative_url }}) · [Terms of Use]({{ '/terms/' | relative_url }})

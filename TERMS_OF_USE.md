@@ -1,3 +1,9 @@
+---
+layout: default
+title: Terra Terms of Use
+permalink: /terms/
+---
+
 # Terra Terms of Use
 
 **Last updated: 15 August 2026**
